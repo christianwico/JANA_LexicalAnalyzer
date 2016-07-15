@@ -1,0 +1,1 @@
+c:\users\ojt\documents\visual studio 2015\Projects\JANA_LexicalAnalyzer\JANA_LexicalAnalyzer\bin\Debug\JANA_LexicalAnalyzer.exe.config
